@@ -48,7 +48,7 @@ const Header = () => {
           }`}
       >
         <div className="container">
-          <div className="relative -mx-4 flex items-center justify-between">
+          <div className="relative-mx-4 flex items-center justify-between">
             <div className="w-60 max-w-full px-4 xl:mr-12">
               <Link
                 href="/"
@@ -63,7 +63,7 @@ const Header = () => {
                   className="dark:hidden rounded"
                 />
                 <Image
-                  src="/images/logo/main_dark.png"
+                  src="/images/logo/main_light.png"
                   alt="logo"
                   width={60}
                   height={30}
@@ -157,7 +157,7 @@ const Header = () => {
                 </SignedIn>
                 <SignedOut>
                   <Link href="/sign-in">
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded">
+                    <button className="flex h-8 w-20 cursor-pointer items-center justify-center rounded-md bg-primary text-white shadow-md transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp">
                       Login
                     </button>
                   </Link>

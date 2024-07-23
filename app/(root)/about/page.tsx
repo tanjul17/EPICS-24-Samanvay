@@ -14,7 +14,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Here are Some information what are we trying to do | Your Child's Future, Our Focus: Early Disorder Evaluation."
+        description="Here are Some information what are we trying to do | Your Mental health Future, Our Focus: Early Mental Issue Disorder Evaluation."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
