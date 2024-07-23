@@ -7,7 +7,8 @@ export default authMiddleware({
     '/blog',
     '/blog-details',
     '/contact',
-    '/error'
+    '/error',
+    '/api/webhooks/clerk',
   ]
 });
 
