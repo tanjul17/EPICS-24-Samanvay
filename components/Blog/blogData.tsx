@@ -3,7 +3,7 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Exploring Practical Approaches to Enhance Mental Health in Daily Life",
+    title: "What is malaise?",
     paragraph:
       "In today's fast-paced world, maintaining good mental health is essential for overall well-being.",
     image: "/images/blog/blog-01.jpg",

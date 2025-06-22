@@ -197,13 +197,13 @@ const Footer = () => {
           </div>
 
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
-          <div className="py-8">
+          {/* <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
               Built by Tanjul and Pushpraj.
               <a href="" rel="nofollow noopener">
               </a>
             </p>
-          </div>
+          </div> */}
         </div>
         <div className="absolute right-0 top-14 z-[-1]">
           <svg

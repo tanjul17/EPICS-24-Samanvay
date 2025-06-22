@@ -18,18 +18,18 @@ const Hero = () => {
                 Timely Indicators, Lifelong Influence: Identifying Mental Health Conditions
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                Your mental well-being matters: our commitment to your happiness and health is unwavering. Gain data-driven insights for early detection of potential concerns. Join us in making informed decisions to secure a healthier, happier tomorrow for you and your loved ones.
+                Your mental well-being matters our commitment to your happiness and health is unwavering. Gain data-driven insights for early detection of potential concerns. Join us in making informed decisions to secure a healthier, happier tomorrow for you and your loved ones.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="https://663bdacac7b6c52cd445c747--verdant-basbousa-dc8e1c.netlify.app/"
-                    className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
+                    className="rounded-lg bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     Take Full Test
                   </Link>
                   <Link
                     href=""
-                    className="inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
+                    className="inline-block rounded-lg bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
                     Choose Below Option
                   </Link>
